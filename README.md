@@ -1,0 +1,1 @@
+# lovester2-email-template
